@@ -1,3 +1,10 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "https://romain.primet.me/"
+languageCode = "fr-fr"
+title = "Romain Primet"
+theme = "noteworthy"
+
+[params]
+  email = "mailto:romain@primet.me"
+  github = "https://github.com/rprimet"
+  twitter = "https://twitter.com/PrimetRomain"
+
